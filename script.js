@@ -20,10 +20,12 @@ document.getElementById('generateBtn').addEventListener('click', function(e) {
     document.querySelector('#textarea').textContent = newPass;
   });
 
-  function copyPassword(){
+function copyPassword(){
     document.getElementById('copy').addEventListener('click', function() {
-    document.getElementById("password").select();
+    document.querySelector('#textarea').select();
     document.execCommand("Copy");
     alert("Password copied to clipboard!");
     });
-}; 
+};
+
+copyPassword();
