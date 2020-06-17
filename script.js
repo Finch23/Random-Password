@@ -1,4 +1,4 @@
-var plength = prompt('How long would you like your password to be? (8-126)');
+
 
 let newPass = '';
 
