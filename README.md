@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a very simple application using HTML, CSS and some Javascript, to create a random password for you to copy to your clipboard and use at your leisure.
+This is a application using HTML, CSS and some Javascript, to create a random password for you to copy to your clipboard and use at your leisure.
 
 ## Development setup
 
